@@ -43,7 +43,7 @@ $fruits = [
   'orange' => 'orange',
   'strawberry' => 'red',
 ];
-$fruits['grape' => 'grape'];
+$fruits['grape'] = 'grape';
 var_dump($fruits);
 ```
 
