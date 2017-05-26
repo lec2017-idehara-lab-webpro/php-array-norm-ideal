@@ -66,11 +66,11 @@ $fruits = [
   'orange' => 'orange',
   'strawberry' => 'red',
 ];
-foreach($f as $fruits)
+foreach($fruits as $f)
 {
   print($f);
 }
-foreach($f => $c as $fruits)
+foreach($fruits as $f => $c)
 {
   print("$f, $c")
 }
