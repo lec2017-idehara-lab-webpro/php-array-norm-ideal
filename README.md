@@ -68,7 +68,7 @@ $fruits = [
 ];
 foreach($f as $fruits)
 {
-  print($fruit);
+  print($f);
 }
 foreach($f => $c as $fruits)
 {
